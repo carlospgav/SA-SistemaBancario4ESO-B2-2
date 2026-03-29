@@ -1,0 +1,699 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260329142343OBHUVF</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>2026032914234387OOA3</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>SdA Propuesta para el alumnado: &quot;Tu banco en 4 días&quot;</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Diseño de un sistema bancario juvenil y productos financieros (4º ESO)</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Carlos Pulido García</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Este recurso está diseñado para que el alumnado de 4º de ESO de la materia Taller de Economía Aplicada desarrolle sus competencias financieras de forma práctica y creativa. A través de este REA, las y los estudiantes encontrarán los pasos necesarios para crear la identidad de su propio banco, explicar el funcionamiento del sistema financiero mediante metáforas y diseñar productos de ahorro e inversión adecuados a distintos perfiles.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1774786935602</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>1ad9ba6f-5493-4e29-9b52-b5060ac02236</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¡Bienvenidos a vuestro banco!</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¡Bienvenidos a vuestro banco!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>¡Bienvenidos a vuestro banco!</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>1ad9ba6f-5493-4e29-9b52-b5060ac02236</odePageId>
+      <odeBlockId>block-1774786383679-5ulbmuypy</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>1ad9ba6f-5493-4e29-9b52-b5060ac02236</odePageId>
+          <odeBlockId>block-1774786383679-5ulbmuypy</odeBlockId>
+          <odeIdeviceId>idevice-1774786383677-0s21epn0q</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¡Hola a todas y todos! En las próximas 4 sesiones, vais a trabajar en pareja para convertiros en profesionales del sector financiero. Vuestro reto es diseñar un banco juvenil propio y crear productos financieros originales.</p>
+<p>¿Qué tendréis que entregar?</p>
+<p>1. Dossier Visual (Infografía Interactiva): Un documento maquetado en Canva, PowerPoint o Word con la identidad y productos de vuestro banco.</p>
+<p>2. Presentación en Vídeo: Una explicación oral de vuestro proyecto para demostrar vuestros conocimientos y conclusiones.</p>
+<p>¡Sed creativos y originales! Cuanto más visual sea vuestro trabajo, mejor.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774786383677-0s21epn0q","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¡Hola a todas y todos! En las próximas 4 sesiones, vais a trabajar en pareja para convertiros en profesionales del sector financiero. Vuestro reto es diseñar un banco juvenil propio y crear productos financieros originales.</p>\n<p>¿Qué tendréis que entregar?</p>\n<p>1. Dossier Visual (Infografía Interactiva): Un documento maquetado en Canva, PowerPoint o Word con la identidad y productos de vuestro banco.</p>\n<p>2. Presentación en Vídeo: Una explicación oral de vuestro proyecto para demostrar vuestros conocimientos y conclusiones.</p>\n<p>¡Sed creativos y originales! Cuanto más visual sea vuestro trabajo, mejor.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1774786418256-n3iofgaj6</odePageId>
+  <odeParentPageId>1ad9ba6f-5493-4e29-9b52-b5060ac02236</odeParentPageId>
+  <pageName>Día 1. Identidad de vuestro banco</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Día 1. Identidad de vuestro banco</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1774786418256-n3iofgaj6</odePageId>
+      <odeBlockId>block-1774786424843-pi5pslcrx</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1774786418256-n3iofgaj6</odePageId>
+          <odeBlockId>block-1774786424843-pi5pslcrx</odeBlockId>
+          <odeIdeviceId>idevice-1774786424841-7olyc5cl9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Lo primero es dar personalidad a vuestra entidad. Debéis decidir: </p>
+<ul>
+<li><strong>Nombre:</strong> Que sea original y fácil de recordar. </li>
+<li><strong>Logo y eslogan:</strong> Que reflejen vuestros valores (¿un banco digital, sostenible o innovador?).</li>
+<li><strong>Soporte digital</strong>: Utilizad Canva para diseñar vuestra marca. Esta será vuestra carta de presentación ante la clientela.</li>
+</ul>
+<p> <br /> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774786424841-7olyc5cl9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Lo primero es dar personalidad a vuestra entidad. Debéis decidir: </p>\n<ul>\n<li><strong>Nombre:</strong> Que sea original y fácil de recordar. </li>\n<li><strong>Logo y eslogan:</strong> Que reflejen vuestros valores (¿un banco digital, sostenible o innovador?).</li>\n<li><strong>Soporte digital</strong>: Utilizad Canva para diseñar vuestra marca. Esta será vuestra carta de presentación ante la clientela.</li>\n</ul>\n<p> <br /> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1774786470141-50otqf345</odePageId>
+  <odeParentPageId>1ad9ba6f-5493-4e29-9b52-b5060ac02236</odeParentPageId>
+  <pageName>Día 2. El viaje del dinero</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Día 2. El viaje del dinero</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Día 2. El viaje del dinero</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1774786470141-50otqf345</odePageId>
+      <odeBlockId>block-1774786475785-swhte44ea</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1774786470141-50otqf345</odePageId>
+          <odeBlockId>block-1774786475785-swhte44ea</odeBlockId>
+          <odeIdeviceId>idevice-1774786475783-l3m70107n</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¿Cómo funciona el sistema financiero? Debéis explicarlo de manera creativa. Inventad una metáfora: puede ser un aeropuerto por donde viaja el dinero o un ecosistema donde cada elemento cumple un papel. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774786475783-l3m70107n","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¿Cómo funciona el sistema financiero? Debéis explicarlo de manera creativa. Inventad una metáfora: puede ser un aeropuerto por donde viaja el dinero o un ecosistema donde cada elemento cumple un papel. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1774786470141-50otqf345</odePageId>
+      <odeBlockId>block-1774786558635-to6id9e56</odeBlockId>
+      <blockName>Formulario</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1774786470141-50otqf345</odePageId>
+          <odeBlockId>block-1774786558635-to6id9e56</odeBlockId>
+          <odeIdeviceId>idevice-1774786558634-5rcaccs3r</odeIdeviceId>
+          <odeIdeviceTypeName>form</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-form-container">
+  <div class="game-evaluation-ids js-hidden" data-id="idevice-1774786558634-5rcaccs3r" data-evaluationb="false" data-evaluationid="bd697a95-b365-455b-a3aa-88c606b5b09b"></div>
+            <div id="frmMainContainer-idevice-1774786558634-5rcaccs3r" class="form-IDevice" data-id="idevice-1774786558634-5rcaccs3r">
+                <div class="form-Data js-hidden">{}</div>
+                
+                <div class="FRMP-GameScoreBoard" style="display:none;">
+                    <div>
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <span id="frmPTime-idevice-1774786558634-5rcaccs3r">00:00</span>
+                    </div>
+                </div>
+                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1774786558634-5rcaccs3r" style="display:none;">
+                      <button  id="frmStartGame-idevice-1774786558634-5rcaccs3r" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="form-body" id="frmBody-idevice-1774786558634-5rcaccs3r" style="display:block;">
+                    <div class="FRMP-Questions">
+                        <div id="form-questions-idevice-1774786558634-5rcaccs3r" > </div>
+                        <div id="frmCover-idevice-1774786558634-5rcaccs3r" class="FRMP-Cover"> </div>
+                    </div>
+                    <div id="resultsContainer-idevice-1774786558634-5rcaccs3r" class="form-results-container inline">
+                        <div id="form-score-idevice-1774786558634-5rcaccs3r" class="score-text">Puntuación.</div>
+                        <div id="form-result-test-idevice-1774786558634-5rcaccs3r" class="score-text phrase-score"></div>
+                    </div>
+                    <div class="form-buttons-container inline">
+                        <input id="form-button-check-idevice-1774786558634-5rcaccs3r" class="btn btn-primary" type="button" value="Comprobar"
+                            data-id="idevice-1774786558634-5rcaccs3r" data-pass-rate="" />
+                        <input id="form-button-reset-idevice-1774786558634-5rcaccs3r" type="button" value="Reiniciar"
+                            data-id="idevice-1774786558634-5rcaccs3r" class="btn btn-primary"  style="display:none" />
+                        <input id="form-button-show-answers-idevice-1774786558634-5rcaccs3r" class="btn btn-primary" type="button" value="Mostrar respuestas"
+                            data-id="idevice-1774786558634-5rcaccs3r" style="display: " />
+
+                    </div>
+                </div>
+                <div class="Games-BottonContainer">
+                    <div class="Games-GetScore">
+                        <input id="frmPSendScore-idevice-1774786558634-5rcaccs3r" type="button" value="Guardar la puntuación" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+                    </div>
+                </div>
+                
+            </div>
+            <div class="questionsMedia" style="display:none"></div>
+            
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774786558634-5rcaccs3r","evaluation":false,"evaluationID":"bd697a95-b365-455b-a3aa-88c606b5b09b","repeatActivity":true,"isScorm":0,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Formulario","msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulsa aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior","msgSuggestion":"Sugerencia"},"id":"idevice-1774786558634-5rcaccs3r","questionsRandom":false,"percentageQuestions":"100","time":"0","eXeFormInstructions":"","questionsData":[{"id":"1774786613104-92QCD","activityType":"selection","baseText":"<p><strong>Actividad de repaso</strong></p>\n<p>Pregunta: ¿Cuál es la función de las entidades intermediarias financieras?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Fabricar billetes de curso legal."],[true,"Poner en contacto a las personas ahorradoras con quienes necesitan dinero para invertir."]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"passRate":5,"addBtnAnswers":true,"eXeIdeviceTextAfter":"","showSlider":false}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1774786693484-1hf5f15ic</odePageId>
+  <odeParentPageId>1ad9ba6f-5493-4e29-9b52-b5060ac02236</odeParentPageId>
+  <pageName>Día 3. Productos de ahorro e inversión</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Día 3. Productos de ahorro e inversión</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Día 3. Productos de ahorro e inversión</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1774786693484-1hf5f15ic</odePageId>
+      <odeBlockId>block-1774786698169-j18t1kugf</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1774786693484-1hf5f15ic</odePageId>
+          <odeBlockId>block-1774786698169-j18t1kugf</odeBlockId>
+          <odeIdeviceId>idevice-1774786698168-l7tsvyoey</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Vuestro banco debe ofrecer:</p>
+<p>1. Dos productos de ahorro: Explicad su rentabilidad, riesgo y liquidez.</p>
+<p>2. Dos Productos de inversión: Relacionadlos con tecnología, sostenibilidad o cultura.</p>
+<p> <br />Test de Perfil Inversor: Cread un test con preguntas para que vuestra clientela sepa si su perfil es prudente, moderado o arriesgado.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774786698168-l7tsvyoey","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Vuestro banco debe ofrecer:</p>\n<p>1. Dos productos de ahorro: Explicad su rentabilidad, riesgo y liquidez.</p>\n<p>2. Dos Productos de inversión: Relacionadlos con tecnología, sostenibilidad o cultura.</p>\n<p> <br />Test de Perfil Inversor: Cread un test con preguntas para que vuestra clientela sepa si su perfil es prudente, moderado o arriesgado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1774786745281-2a00pwr4i</odePageId>
+  <odeParentPageId>1ad9ba6f-5493-4e29-9b52-b5060ac02236</odeParentPageId>
+  <pageName>Día 4. Plan financiero y vídeo final</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Día 4. Plan financiero y vídeo final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1774786745281-2a00pwr4i</odePageId>
+      <odeBlockId>block-1774786753899-duggufbkq</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1774786745281-2a00pwr4i</odePageId>
+          <odeBlockId>block-1774786753899-duggufbkq</odeBlockId>
+          <odeIdeviceId>idevice-1774786753898-jl875mthi</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para terminar, diseñad un plan para una persona ficticia (indicando nombre, edad y presupuesto). Justificad qué productos de vuestro banco le recomendáis.</p>
+<p>Presentación final (Vídeo): Grabad un vídeo mostrando vuestro dossier. </p>
+<p>¡No leáis el texto! Explicad con vuestras propias palabras qué habéis aprendido y por qué habéis tomado esas decisiones financieras.</p>
+<p> <br /> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774786753898-jl875mthi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para terminar, diseñad un plan para una persona ficticia (indicando nombre, edad y presupuesto). Justificad qué productos de vuestro banco le recomendáis.</p>\n<p>Presentación final (Vídeo): Grabad un vídeo mostrando vuestro dossier. </p>\n<p>¡No leáis el texto! Explicad con vuestras propias palabras qué habéis aprendido y por qué habéis tomado esas decisiones financieras.</p>\n<p> <br /> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1774786798722-dt4gc57sp</odePageId>
+  <odeParentPageId>1ad9ba6f-5493-4e29-9b52-b5060ac02236</odeParentPageId>
+  <pageName>Diccionario de términos (Glosario)</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Diccionario de términos (Glosario)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1774786798722-dt4gc57sp</odePageId>
+      <odeBlockId>block-1774786806133-to55957dw</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1774786798722-dt4gc57sp</odePageId>
+          <odeBlockId>block-1774786806133-to55957dw</odeBlockId>
+          <odeIdeviceId>idevice-1774786806132-tm001s5vh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li><strong>Rentabilidad</strong>: Beneficio que se obtiene de una inversión.</li>
+<li><strong>Riesgo</strong>: Probabilidad de que la inversión no dé el beneficio esperado.</li>
+<li> <strong>Liquidez</strong>: Rapidez con la que un producto se puede convertir en dinero en efectivo</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774786806132-tm001s5vh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><strong>Rentabilidad</strong>: Beneficio que se obtiene de una inversión.</li>\n<li><strong>Riesgo</strong>: Probabilidad de que la inversión no dé el beneficio esperado.</li>\n<li> <strong>Liquidez</strong>: Rapidez con la que un producto se puede convertir en dinero en efectivo</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1774786829549-bt832s3b9</odePageId>
+  <odeParentPageId>1ad9ba6f-5493-4e29-9b52-b5060ac02236</odeParentPageId>
+  <pageName>¿Cómo se va a evaluar?</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Cómo se va a evaluar?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1774786829549-bt832s3b9</odePageId>
+      <odeBlockId>block-1774786837389-m78t3r3ee</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1774786829549-bt832s3b9</odePageId>
+          <odeBlockId>block-1774786837389-m78t3r3ee</odeBlockId>
+          <odeIdeviceId>idevice-1774786837388-zhja90wnd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Se valorará el trabajo del alumnado según estos criterios:</p>
+<p><strong>1. Creatividad: </strong>Originalidad en el nombre, logo y metáfora.</p>
+<p><strong>2. Claridad económica: </strong>Uso correcto de términos (riesgo, liquidez, etc.).</p>
+<p><strong>3. Calidad de la infografía: </strong>Diseño visual organizado y sin faltas de ortografía.</p>
+<p><strong>4. Comunicación oral: </strong>Capacidad de explicar conceptos en el vídeo final de forma clara.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774786837388-zhja90wnd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se valorará el trabajo del alumnado según estos criterios:</p>\n<p><strong>1. Creatividad: </strong>Originalidad en el nombre, logo y metáfora.</p>\n<p><strong>2. Claridad económica: </strong>Uso correcto de términos (riesgo, liquidez, etc.).</p>\n<p><strong>3. Calidad de la infografía: </strong>Diseño visual organizado y sin faltas de ortografía.</p>\n<p><strong>4. Comunicación oral: </strong>Capacidad de explicar conceptos en el vídeo final de forma clara.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1774786878316-21dk2ordi</odePageId>
+  <odeParentPageId>1ad9ba6f-5493-4e29-9b52-b5060ac02236</odeParentPageId>
+  <pageName>Créditos y descarga</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos y descarga</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1774786878316-21dk2ordi</odePageId>
+      <odeBlockId>block-1774786886474-3t6kd67c2</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1774786878316-21dk2ordi</odePageId>
+          <odeBlockId>block-1774786886474-3t6kd67c2</odeBlockId>
+          <odeIdeviceId>idevice-1774786886473-6bauugcuw</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">SdA Propuesta para el alumnado: "Tu banco en 4 días"</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Este recurso está diseñado para que el alumnado de 4º de ESO de la materia Taller de Economía Aplicada desarrolle sus competencias financieras de forma práctica y creativa. A través de este REA, las y los estudiantes encontrarán los pasos necesarios para crear la identidad de su propio banco, explicar el funcionamiento del sistema financiero mediante metáforas y diseñar productos de ahorro e inversión adecuados a distintos perfiles.</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Carlos Pulido García</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;"><br></p>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Este recurso educativo ha sido elaborado para 4º de ESO (Taller de Economía Aplicada). Es posible descargar el archivo editable en formato .elp para su uso por parte del profesorado o el alumnado.</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
