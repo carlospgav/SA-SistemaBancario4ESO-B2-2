@@ -10,11 +10,11 @@
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260329142343OBHUVF</value>
+    <value>20260413110052SMRTH0</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>2026032914234387OOA3</value>
+    <value>20260413110052IQZWVV</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -56,11 +56,11 @@
   </odeProperty>
   <odeProperty>
     <key>pp_exelearning_version</key>
-    <value>v4.0.0-beta3</value>
+    <value>v4.0.0-rc1</value>
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1774786935602</value>
+    <value>1776069658200</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -93,11 +93,31 @@
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>1ad9ba6f-5493-4e29-9b52-b5060ac02236</odePageId>
+  <odePageId>page-mnwy0mya-l90ixpvuj</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>¡Bienvenidos a vuestro banco!</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¡Bienvenidos a vuestro banco!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>¡Bienvenidos a vuestro banco!</value>
@@ -109,7 +129,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>1ad9ba6f-5493-4e29-9b52-b5060ac02236</odePageId>
+      <odePageId>page-mnwy0mya-l90ixpvuj</odePageId>
       <odeBlockId>block-1774786383679-5ulbmuypy</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -138,7 +158,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>1ad9ba6f-5493-4e29-9b52-b5060ac02236</odePageId>
+          <odePageId>page-mnwy0mya-l90ixpvuj</odePageId>
           <odeBlockId>block-1774786383679-5ulbmuypy</odeBlockId>
           <odeIdeviceId>idevice-1774786383677-0s21epn0q</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -152,6 +172,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1774786383677-0s21epn0q","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¡Hola a todas y todos! En las próximas 4 sesiones, vais a trabajar en pareja para convertiros en profesionales del sector financiero. Vuestro reto es diseñar un banco juvenil propio y crear productos financieros originales.</p>\n<p>¿Qué tendréis que entregar?</p>\n<p>1. Dossier Visual (Infografía Interactiva): Un documento maquetado en Canva, PowerPoint o Word con la identidad y productos de vuestro banco.</p>\n<p>2. Presentación en Vídeo: Una explicación oral de vuestro proyecto para demostrar vuestros conocimientos y conclusiones.</p>\n<p>¡Sed creativos y originales! Cuanto más visual sea vuestro trabajo, mejor.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -159,8 +191,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1774786418256-n3iofgaj6</odePageId>
-  <odeParentPageId>1ad9ba6f-5493-4e29-9b52-b5060ac02236</odeParentPageId>
+  <odePageId>page-mnwy0myd-bchpqa9qq</odePageId>
+  <odeParentPageId>page-mnwy0mya-l90ixpvuj</odeParentPageId>
   <pageName>Día 1. Identidad de vuestro banco</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -168,10 +200,34 @@
       <key>titlePage</key>
       <value>Día 1. Identidad de vuestro banco</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Día 1. Identidad de vuestro banco</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1774786418256-n3iofgaj6</odePageId>
+      <odePageId>page-mnwy0myd-bchpqa9qq</odePageId>
       <odeBlockId>block-1774786424843-pi5pslcrx</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -200,7 +256,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1774786418256-n3iofgaj6</odePageId>
+          <odePageId>page-mnwy0myd-bchpqa9qq</odePageId>
           <odeBlockId>block-1774786424843-pi5pslcrx</odeBlockId>
           <odeIdeviceId>idevice-1774786424841-7olyc5cl9</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -216,6 +272,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1774786424841-7olyc5cl9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Lo primero es dar personalidad a vuestra entidad. Debéis decidir: </p>\n<ul>\n<li><strong>Nombre:</strong> Que sea original y fácil de recordar. </li>\n<li><strong>Logo y eslogan:</strong> Que reflejen vuestros valores (¿un banco digital, sostenible o innovador?).</li>\n<li><strong>Soporte digital</strong>: Utilizad Canva para diseñar vuestra marca. Esta será vuestra carta de presentación ante la clientela.</li>\n</ul>\n<p> <br /> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -223,11 +291,31 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1774786470141-50otqf345</odePageId>
-  <odeParentPageId>1ad9ba6f-5493-4e29-9b52-b5060ac02236</odeParentPageId>
+  <odePageId>page-mnwy0mye-43lfn2d68</odePageId>
+  <odeParentPageId>page-mnwy0mya-l90ixpvuj</odeParentPageId>
   <pageName>Día 2. El viaje del dinero</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
   <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Día 2. El viaje del dinero</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Día 2. El viaje del dinero</value>
@@ -239,11 +327,11 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1774786470141-50otqf345</odePageId>
+      <odePageId>page-mnwy0mye-43lfn2d68</odePageId>
       <odeBlockId>block-1774786475785-swhte44ea</odeBlockId>
-      <blockName>Texto</blockName>
+      <blockName>Actividad</blockName>
       <iconName></iconName>
-      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
           <key>visibility</key>
@@ -268,7 +356,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1774786470141-50otqf345</odePageId>
+          <odePageId>page-mnwy0mye-43lfn2d68</odePageId>
           <odeBlockId>block-1774786475785-swhte44ea</odeBlockId>
           <odeIdeviceId>idevice-1774786475783-l3m70107n</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -278,14 +366,26 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1774786475783-l3m70107n","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¿Cómo funciona el sistema financiero? Debéis explicarlo de manera creativa. Inventad una metáfora: puede ser un aeropuerto por donde viaja el dinero o un ecosistema donde cada elemento cumple un papel. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
     </odePagStructure>
     <odePagStructure>
-      <odePageId>page-1774786470141-50otqf345</odePageId>
-      <odeBlockId>block-1774786558635-to6id9e56</odeBlockId>
-      <blockName>Formulario</blockName>
+      <odePageId>page-mnwy0mye-43lfn2d68</odePageId>
+      <odeBlockId>block-1776070067664-f8xny6ujs</odeBlockId>
+      <blockName>Juego de emparejar</blockName>
       <iconName></iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
@@ -312,54 +412,12 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1774786470141-50otqf345</odePageId>
-          <odeBlockId>block-1774786558635-to6id9e56</odeBlockId>
-          <odeIdeviceId>idevice-1774786558634-5rcaccs3r</odeIdeviceId>
-          <odeIdeviceTypeName>form</odeIdeviceTypeName>
-          <htmlView><![CDATA[<div class="exe-form-container">
-  <div class="game-evaluation-ids js-hidden" data-id="idevice-1774786558634-5rcaccs3r" data-evaluationb="false" data-evaluationid="bd697a95-b365-455b-a3aa-88c606b5b09b"></div>
-            <div id="frmMainContainer-idevice-1774786558634-5rcaccs3r" class="form-IDevice" data-id="idevice-1774786558634-5rcaccs3r">
-                <div class="form-Data js-hidden">{}</div>
-                
-                <div class="FRMP-GameScoreBoard" style="display:none;">
-                    <div>
-                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
-                        <span id="frmPTime-idevice-1774786558634-5rcaccs3r">00:00</span>
-                    </div>
-                </div>
-                <div class="FRMP-StartGame" id="frmStartGameDiv-idevice-1774786558634-5rcaccs3r" style="display:none;">
-                      <button  id="frmStartGame-idevice-1774786558634-5rcaccs3r" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
-                </div>
-                <div class="form-body" id="frmBody-idevice-1774786558634-5rcaccs3r" style="display:block;">
-                    <div class="FRMP-Questions">
-                        <div id="form-questions-idevice-1774786558634-5rcaccs3r" > </div>
-                        <div id="frmCover-idevice-1774786558634-5rcaccs3r" class="FRMP-Cover"> </div>
-                    </div>
-                    <div id="resultsContainer-idevice-1774786558634-5rcaccs3r" class="form-results-container inline">
-                        <div id="form-score-idevice-1774786558634-5rcaccs3r" class="score-text">Puntuación.</div>
-                        <div id="form-result-test-idevice-1774786558634-5rcaccs3r" class="score-text phrase-score"></div>
-                    </div>
-                    <div class="form-buttons-container inline">
-                        <input id="form-button-check-idevice-1774786558634-5rcaccs3r" class="btn btn-primary" type="button" value="Comprobar"
-                            data-id="idevice-1774786558634-5rcaccs3r" data-pass-rate="" />
-                        <input id="form-button-reset-idevice-1774786558634-5rcaccs3r" type="button" value="Reiniciar"
-                            data-id="idevice-1774786558634-5rcaccs3r" class="btn btn-primary"  style="display:none" />
-                        <input id="form-button-show-answers-idevice-1774786558634-5rcaccs3r" class="btn btn-primary" type="button" value="Mostrar respuestas"
-                            data-id="idevice-1774786558634-5rcaccs3r" style="display: " />
-
-                    </div>
-                </div>
-                <div class="Games-BottonContainer">
-                    <div class="Games-GetScore">
-                        <input id="frmPSendScore-idevice-1774786558634-5rcaccs3r" type="button" value="Guardar la puntuación" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
-                    </div>
-                </div>
-                
-            </div>
-            <div class="questionsMedia" style="display:none"></div>
-            
-</div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774786558634-5rcaccs3r","evaluation":false,"evaluationID":"bd697a95-b365-455b-a3aa-88c606b5b09b","repeatActivity":true,"isScorm":0,"textButtonScorm":"Guardar la puntuación","weighted":100,"msgs":{"msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgYouScore":"Tu puntuación es","msgScore":"Puntuación","msgWeight":"Peso","msgYouLastScore":"La última puntuación guardada es","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgActityComply":"Ya ha realizado esta actividad.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Formulario","msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgSaveScore":"Guardar la puntuación","msgResult":"Resultado","msgCheck":"Comprobar","msgReset":"Reiniciar","msgShowAnswers":"Mostrar respuestas","msgTestResultPass":"¡Felicidades! Has pasado la prueba","msgTestResultNotPass":"Lo siento. Has fallado la prueba","msgTrueFalseHelp":"Di si la afirmación es verdadera o falsa","msgDropdownHelp":"Elige la respuesta correcta entre las opciones propuestas","msgFillHelp":"Rellena los espacios en blanco con la palabra apropiada","msgSingleSelectionHelp":"Opción múltiple con solo una respuesta correcta","msgMultipleSelectionHelp":"Opción múltiple con varias respuestas correctas","msgPlayStart":"Pulsa aquí para empezar","msgTrue":"Verdadero","msgFalse":"Falso","msgNext":"Siguiente","msgPrevious":"Anterior","msgSuggestion":"Sugerencia"},"id":"idevice-1774786558634-5rcaccs3r","questionsRandom":false,"percentageQuestions":"100","time":"0","eXeFormInstructions":"","questionsData":[{"id":"1774786613104-92QCD","activityType":"selection","baseText":"<p><strong>Actividad de repaso</strong></p>\n<p>Pregunta: ¿Cuál es la función de las entidades intermediarias financieras?</p>","feedbackRight":"","feedbackWrong":"","suggestion":"","wrongAnswersValue":"","selectionType":"single","answers":[[false,"Fabricar billetes de curso legal."],[true,"Poner en contacto a las personas ahorradoras con quienes necesitan dinero para invertir."]],"answer":"1","capitalization":false,"strict":false,"order":0,"customScore":1,"time":0}],"passRate":5,"addBtnAnswers":true,"eXeIdeviceTextAfter":"","showSlider":false}]]></jsonProperties>
+          <odePageId>page-mnwy0mye-43lfn2d68</odePageId>
+          <odeBlockId>block-1776070067664-f8xny6ujs</odeBlockId>
+          <odeIdeviceId>idevice-1776070067661-wuiv7mykb</odeIdeviceId>
+          <odeIdeviceTypeName>relate</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="relaciona-IDevice"><div class="relaciona-instructions gameQP-instructions"><p>Relaciona cada concepto financiero con su definición correspondiente para comprobar vuestros conocimientos antes de diseñar el banco</p></div><div class="relaciona-DataGame js-hidden">{"typeGame":"Relaciona","author":"","randomCards":true,"instructions":"<p>Relaciona cada concepto financiero con su definición correspondiente para comprobar vuestros conocimientos antes de diseñar el banco</p>","showMinimize":false,"itinerary":{"showClue":false,"clueGame":"","percentageClue":40,"showCodeAccess":false,"codeAccess":"","messageCodeAccess":""},"cardsGame":[{"url":"","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"Entidad%20Intermediaria","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Instituci%C3%B3n%20que%20conecta%20a%20las%20personas%20ahorradoras%20con%20quienes%20necesitan%20financiaci%C3%B3n."},{"url":"","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"Rentabilidad","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"El%20beneficio%20econ%C3%B3mico%20que%20la%20clientela%20espera%20recibir%20por%20su%20dinero."},{"url":"","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"Riesgo","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"La%20probabilidad%20de%20que%20una%20inversi%C3%B3n%20no%20devuelva%20los%20beneficios%20esperados%20a%20las%20personas%20interesadas."},{"url":"","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"Liquidez","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"La%20facilidad%20y%20rapidez%20con%20la%20que%20un%20producto%20se%20puede%20convertir%20en%20dinero%20en%20efectivo."}],"isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100,"textAfter":"","version":2,"percentajeCards":100,"type":0,"showSolution":true,"timeShowSolution":3,"time":3,"evaluation":false,"evaluationID":"bc9170f1-5025-4a00-b1a4-3719dd073d6c","id":"idevice-1776070067661-wuiv7mykb","msgs":{"msgSubmit":"Enviar","msgClue":"¡Genial! La pista es:","msgCodeAccess":"Código de acceso","msgPlayStart":"Pulsa aquí para jugar","msgScore":"Puntuación","msgErrors":"Errores","msgHits":"Aciertos","msgMinimize":"Minimizar","msgMaximize":"Maximizar","msgFullScreen":"Pantalla Completa","msgExitFullScreen":"Salir del modo pantalla completa","msgNoImage":"Pregunta sin imágenes","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgInformation":"Información","msgYouScore":"Su puntuación","msgAuthor":"Autoría","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgYouLastScore":"La última puntuación guardada es","msgActityComply":"Ya ha realizado esta actividad.","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgClose":"Cerrar","msgAudio":"Audio","msgNumQuestions":"Número de tarjetas","msgTryAgain":"Necesitas al menos %s% de respuestas correctas para obtener la información. Inténtalo de nuevo.","msgEndGameM":"Has completado el juego. Tu puntuación es %s.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Relaciona","msgCheck":"Comprobar","msgRestart":"Reiniciar"}}</div><div class="game-evaluation-ids js-hidden" data-id="idevice-1776070067661-wuiv7mykb" data-evaluationb="false" data-evaluationid="bc9170f1-5025-4a00-b1a4-3719dd073d6c"></div><div class="relaciona-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -369,11 +427,31 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1774786693484-1hf5f15ic</odePageId>
-  <odeParentPageId>1ad9ba6f-5493-4e29-9b52-b5060ac02236</odeParentPageId>
+  <odePageId>page-mnwy0myg-6oh6e0znt</odePageId>
+  <odeParentPageId>page-mnwy0mya-l90ixpvuj</odeParentPageId>
   <pageName>Día 3. Productos de ahorro e inversión</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Día 3. Productos de ahorro e inversión</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titlePage</key>
       <value>Día 3. Productos de ahorro e inversión</value>
@@ -385,7 +463,7 @@
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1774786693484-1hf5f15ic</odePageId>
+      <odePageId>page-mnwy0myg-6oh6e0znt</odePageId>
       <odeBlockId>block-1774786698169-j18t1kugf</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -414,7 +492,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1774786693484-1hf5f15ic</odePageId>
+          <odePageId>page-mnwy0myg-6oh6e0znt</odePageId>
           <odeBlockId>block-1774786698169-j18t1kugf</odeBlockId>
           <odeIdeviceId>idevice-1774786698168-l7tsvyoey</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -427,6 +505,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1774786698168-l7tsvyoey","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Vuestro banco debe ofrecer:</p>\n<p>1. Dos productos de ahorro: Explicad su rentabilidad, riesgo y liquidez.</p>\n<p>2. Dos Productos de inversión: Relacionadlos con tecnología, sostenibilidad o cultura.</p>\n<p> <br />Test de Perfil Inversor: Cread un test con preguntas para que vuestra clientela sepa si su perfil es prudente, moderado o arriesgado.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -434,8 +524,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1774786745281-2a00pwr4i</odePageId>
-  <odeParentPageId>1ad9ba6f-5493-4e29-9b52-b5060ac02236</odeParentPageId>
+  <odePageId>page-mnwy0myg-401bxnu5h</odePageId>
+  <odeParentPageId>page-mnwy0mya-l90ixpvuj</odeParentPageId>
   <pageName>Día 4. Plan financiero y vídeo final</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -443,10 +533,34 @@
       <key>titlePage</key>
       <value>Día 4. Plan financiero y vídeo final</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Día 4. Plan financiero y vídeo final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1774786745281-2a00pwr4i</odePageId>
+      <odePageId>page-mnwy0myg-401bxnu5h</odePageId>
       <odeBlockId>block-1774786753899-duggufbkq</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -475,7 +589,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1774786745281-2a00pwr4i</odePageId>
+          <odePageId>page-mnwy0myg-401bxnu5h</odePageId>
           <odeBlockId>block-1774786753899-duggufbkq</odeBlockId>
           <odeIdeviceId>idevice-1774786753898-jl875mthi</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -488,6 +602,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1774786753898-jl875mthi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para terminar, diseñad un plan para una persona ficticia (indicando nombre, edad y presupuesto). Justificad qué productos de vuestro banco le recomendáis.</p>\n<p>Presentación final (Vídeo): Grabad un vídeo mostrando vuestro dossier. </p>\n<p>¡No leáis el texto! Explicad con vuestras propias palabras qué habéis aprendido y por qué habéis tomado esas decisiones financieras.</p>\n<p> <br /> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -495,8 +621,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1774786798722-dt4gc57sp</odePageId>
-  <odeParentPageId>1ad9ba6f-5493-4e29-9b52-b5060ac02236</odeParentPageId>
+  <odePageId>page-mnwy0myg-3dsflv37b</odePageId>
+  <odeParentPageId>page-mnwy0mya-l90ixpvuj</odeParentPageId>
   <pageName>Diccionario de términos (Glosario)</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -504,10 +630,34 @@
       <key>titlePage</key>
       <value>Diccionario de términos (Glosario)</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Diccionario de términos (Glosario)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1774786798722-dt4gc57sp</odePageId>
+      <odePageId>page-mnwy0myg-3dsflv37b</odePageId>
       <odeBlockId>block-1774786806133-to55957dw</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
@@ -536,7 +686,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1774786798722-dt4gc57sp</odePageId>
+          <odePageId>page-mnwy0myg-3dsflv37b</odePageId>
           <odeBlockId>block-1774786806133-to55957dw</odeBlockId>
           <odeIdeviceId>idevice-1774786806132-tm001s5vh</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -550,6 +700,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1774786806132-tm001s5vh","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><strong>Rentabilidad</strong>: Beneficio que se obtiene de una inversión.</li>\n<li><strong>Riesgo</strong>: Probabilidad de que la inversión no dé el beneficio esperado.</li>\n<li> <strong>Liquidez</strong>: Rapidez con la que un producto se puede convertir en dinero en efectivo</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -557,8 +719,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1774786829549-bt832s3b9</odePageId>
-  <odeParentPageId>1ad9ba6f-5493-4e29-9b52-b5060ac02236</odeParentPageId>
+  <odePageId>page-mnwy0myh-mo08nfiym</odePageId>
+  <odeParentPageId>page-mnwy0mya-l90ixpvuj</odeParentPageId>
   <pageName>¿Cómo se va a evaluar?</pageName>
   <odeNavStructureOrder>5</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -566,12 +728,36 @@
       <key>titlePage</key>
       <value>¿Cómo se va a evaluar?</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Cómo se va a evaluar?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1774786829549-bt832s3b9</odePageId>
+      <odePageId>page-mnwy0myh-mo08nfiym</odePageId>
       <odeBlockId>block-1774786837389-m78t3r3ee</odeBlockId>
-      <blockName>Texto</blockName>
+      <blockName>Aspectos a valorar</blockName>
       <iconName></iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
@@ -598,7 +784,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1774786829549-bt832s3b9</odePageId>
+          <odePageId>page-mnwy0myh-mo08nfiym</odePageId>
           <odeBlockId>block-1774786837389-m78t3r3ee</odeBlockId>
           <odeIdeviceId>idevice-1774786837388-zhja90wnd</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -612,6 +798,102 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1774786837388-zhja90wnd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Se valorará el trabajo del alumnado según estos criterios:</p>\n<p><strong>1. Creatividad: </strong>Originalidad en el nombre, logo y metáfora.</p>\n<p><strong>2. Claridad económica: </strong>Uso correcto de términos (riesgo, liquidez, etc.).</p>\n<p><strong>3. Calidad de la infografía: </strong>Diseño visual organizado y sin faltas de ortografía.</p>\n<p><strong>4. Comunicación oral: </strong>Capacidad de explicar conceptos en el vídeo final de forma clara.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnwy0myh-mo08nfiym</odePageId>
+      <odeBlockId>block-1776070224578-4ydcbmjb9</odeBlockId>
+      <blockName>Rúbrica de evaluación dossier (Canva)</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnwy0myh-mo08nfiym</odePageId>
+          <odeBlockId>block-1776070224578-4ydcbmjb9</odeBlockId>
+          <odeIdeviceId>idevice-1776070224576-xh7g019cy</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p>Completa la siguiente rúbrica</p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%22idevice-1776070224576-xh7g019cy%22%2C%22table%22%3A%7B%22title%22%3A%22R%FAbrica%20de%20ejemplo%20%284x4%29%22%2C%22categories%22%3A%5B%22Identidad%20corporativa%22%2C%22Met%E1fora%20del%20Sistema%22%2C%22Productos%20Financieros%22%2C%22Perfil%20Inversor%22%5D%2C%22scores%22%3A%5B%22Nivel%201%3A%20Logrado%22%2C%22Nivel%202%3A%20En%20proceso%22%2C%22Nivel%203%3A%20No%20logrado%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%222%2C5%22%2C%22text%22%3A%22El%20nombre%2C%20logo%20y%20eslogan%20son%20originales%20y%20representan%20valores%20claros%20para%20la%20clientela.%22%7D%2C%7B%22weight%22%3A%221%2C25%22%2C%22text%22%3A%22La%20identidad%20est%E1%20completa%20pero%20carece%20de%20originalidad%20o%20coherencia.%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22No%20se%20define%20una%20identidad%20clara%20para%20el%20banco.%22%7D%5D%2C%5B%7B%22weight%22%3A%222%2C5%22%2C%22text%22%3A%22Explica%20el%20sistema%20financiero%20mediante%20una%20met%E1fora%20creativa%20y%20totalmente%20comprensible%20para%20las%20personas%20usuarias.%22%7D%2C%7B%22weight%22%3A%221%2C25%22%2C%22text%22%3A%22La%20explicaci%F3n%20es%20correcta%20pero%20la%20met%E1fora%20es%20poco%20clara%20o%20inexistente.%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22No%20explica%20el%20funcionamiento%20del%20sistema%20financiero.%22%7D%5D%2C%5B%7B%22weight%22%3A%222%2C5%22%2C%22text%22%3A%22Define%20con%20precisi%F3n%20rentabilidad%2C%20riesgo%20y%20liquidez%20de%20los%204%20productos%20requeridos.%22%7D%2C%7B%22weight%22%3A%221%2C25%22%2C%22text%22%3A%22Define%20los%20productos%20pero%20omite%20o%20confunde%20alguna%20variable%20t%E9cnica.%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22La%20descripci%F3n%20de%20los%20productos%20es%20incompleta%20o%20err%F3nea.%22%7D%5D%2C%5B%7B%22weight%22%3A%222%2C5%22%2C%22text%22%3A%22El%20test%20de%20perfil%20permite%20una%20clasificaci%F3n%20clara%20de%20la%20clientela%20%28prudente%2C%20moderado%20o%20arriesgado%29.%22%7D%2C%7B%22weight%22%3A%221%2C25%22%2C%22text%22%3A%22El%20test%20es%20sencillo%20pero%20las%20recomendaciones%20no%20son%20del%20todo%20precisas.%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22No%20se%20incluye%20test%20de%20perfil%20o%20no%20tiene%20sentido%20econ%F3mico.%22%7D%5D%5D%7D%2C%22title%22%3A%22R%FAbrica%20de%20ejemplo%20%284x4%29%22%2C%22categories%22%3A%5B%22Identidad%20corporativa%22%2C%22Met%E1fora%20del%20Sistema%22%2C%22Productos%20Financieros%22%2C%22Perfil%20Inversor%22%5D%2C%22scores%22%3A%5B%22Nivel%201%3A%20Logrado%22%2C%22Nivel%202%3A%20En%20proceso%22%2C%22Nivel%203%3A%20No%20logrado%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%222%2C5%22%2C%22text%22%3A%22El%20nombre%2C%20logo%20y%20eslogan%20son%20originales%20y%20representan%20valores%20claros%20para%20la%20clientela.%22%7D%2C%7B%22weight%22%3A%221%2C25%22%2C%22text%22%3A%22La%20identidad%20est%E1%20completa%20pero%20carece%20de%20originalidad%20o%20coherencia.%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22No%20se%20define%20una%20identidad%20clara%20para%20el%20banco.%22%7D%5D%2C%5B%7B%22weight%22%3A%222%2C5%22%2C%22text%22%3A%22Explica%20el%20sistema%20financiero%20mediante%20una%20met%E1fora%20creativa%20y%20totalmente%20comprensible%20para%20las%20personas%20usuarias.%22%7D%2C%7B%22weight%22%3A%221%2C25%22%2C%22text%22%3A%22La%20explicaci%F3n%20es%20correcta%20pero%20la%20met%E1fora%20es%20poco%20clara%20o%20inexistente.%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22No%20explica%20el%20funcionamiento%20del%20sistema%20financiero.%22%7D%5D%2C%5B%7B%22weight%22%3A%222%2C5%22%2C%22text%22%3A%22Define%20con%20precisi%F3n%20rentabilidad%2C%20riesgo%20y%20liquidez%20de%20los%204%20productos%20requeridos.%22%7D%2C%7B%22weight%22%3A%221%2C25%22%2C%22text%22%3A%22Define%20los%20productos%20pero%20omite%20o%20confunde%20alguna%20variable%20t%E9cnica.%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22La%20descripci%F3n%20de%20los%20productos%20es%20incompleta%20o%20err%F3nea.%22%7D%5D%2C%5B%7B%22weight%22%3A%222%2C5%22%2C%22text%22%3A%22El%20test%20de%20perfil%20permite%20una%20clasificaci%F3n%20clara%20de%20la%20clientela%20%28prudente%2C%20moderado%20o%20arriesgado%29.%22%7D%2C%7B%22weight%22%3A%221%2C25%22%2C%22text%22%3A%22El%20test%20es%20sencillo%20pero%20las%20recomendaciones%20no%20son%20del%20todo%20precisas.%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22No%20se%20incluye%20test%20de%20perfil%20o%20no%20tiene%20sentido%20econ%F3mico.%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E%22%2C%22visible-info%22%3Atrue%2C%22i18n%22%3A%7B%22rubric%22%3A%22R%FAbrica%22%2C%22activity%22%3A%22Actividad%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22download%22%3A%22Descargar%22%2C%22msgDelete%22%3A%22%BFSeguro%20que%20desea%20borrar%20todos%20los%20campos%20del%20formulario%3F%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%7D%7D</div><ul class="exe-rubrics-strings"><li class="rubric">Rúbrica</li><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="download">Descargar</li><li class="msgDelete">¿Seguro que desea borrar todos los campos del formulario?</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li></ul></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E</span><span class="exe-rubrics-text-after-data"></span></div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnwy0myh-mo08nfiym</odePageId>
+      <odeBlockId>block-1776070680127-ttrgup03n</odeBlockId>
+      <blockName>Rúbrica de evaluación dossier (Vídeo)</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnwy0myh-mo08nfiym</odePageId>
+          <odeBlockId>block-1776070680127-ttrgup03n</odeBlockId>
+          <odeIdeviceId>idevice-1776070680127-0wk57kvd3</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%22idevice-1776070680127-0wk57kvd3%22%2C%22table%22%3A%7B%22title%22%3A%22R%FAbrica%20de%20ejemplo%20%284x4%29%22%2C%22categories%22%3A%5B%22Comunicaci%F3n%20Oral%22%2C%22Dominio%20de%20Contenidos%3A%22%2C%22Calidad%20Audiovisual%22%2C%22Lenguaje%20Inclusivo%22%5D%2C%22scores%22%3A%5B%22Nivel%201%3A%20Logrado%22%2C%22Nivel%202%3A%20En%20proceso%22%2C%22Nivel%203%3A%20No%20logrado%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%222%2C5%22%2C%22text%22%3A%22El%20alumnado%20se%20expresa%20con%20fluidez%2C%20claridad%20y%20utiliza%20un%20vocabulario%20t%E9cnico%20adecuado.%22%7D%2C%7B%22weight%22%3A%221%2C25%22%2C%22text%22%3A%22La%20explicaci%F3n%20es%20clara%20pero%20depende%20en%20exceso%20de%20la%20lectura%20del%20dossier.%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22Se%20limita%20a%20leer%20el%20texto%20o%20la%20comunicaci%F3n%20es%20confusa.%22%7D%5D%2C%5B%7B%22weight%22%3A%222%2C5%22%2C%22text%22%3A%22Demuestra%20una%20comprensi%F3n%20profunda%20de%20los%20conceptos%20financieros%20explicados%20en%20el%20v%EDdeo.%22%7D%2C%7B%22weight%22%3A%221%2C25%22%2C%22text%22%3A%22Muestra%20comprensi%F3n%20de%20los%20conceptos%20b%E1sicos%20pero%20con%20algunas%20imprecisiones.%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22No%20demuestra%20entender%20el%20funcionamiento%20del%20mercado%20o%20los%20productos.%22%7D%5D%2C%5B%7B%22weight%22%3A%222%2C5%22%2C%22text%22%3A%22El%20v%EDdeo%20est%E1%20bien%20estructurado%20y%20el%20audio%20es%20n%EDtido%20en%20toda%20la%20presentaci%F3n.%22%7D%2C%7B%22weight%22%3A%221%2C25%22%2C%22text%22%3A%22El%20v%EDdeo%20es%20correcto%20pero%20falla%20en%20alg%FAn%20aspecto%20t%E9cnico%20%28audio%20o%20imagen%29.%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22Calidad%20t%E9cnica%20deficiente%20que%20dificulta%20la%20comprensi%F3n%20del%20mensaje.%22%7D%5D%2C%5B%7B%22weight%22%3A%222%2C5%22%2C%22text%22%3A%22Utiliza%20lenguaje%20inclusivo%20y%20no%20sexista%20durante%20toda%20la%20intervenci%F3n%20oral.%22%7D%2C%7B%22weight%22%3A%221%2C25%22%2C%22text%22%3A%22Utiliza%20lenguaje%20inclusivo%20de%20forma%20intermitente%20durante%20el%20v%EDdeo.%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22No%20utiliza%20lenguaje%20inclusivo%20en%20su%20exposici%F3n%20oral.%22%7D%5D%5D%7D%2C%22title%22%3A%22R%FAbrica%20de%20ejemplo%20%284x4%29%22%2C%22categories%22%3A%5B%22Comunicaci%F3n%20Oral%22%2C%22Dominio%20de%20Contenidos%3A%22%2C%22Calidad%20Audiovisual%22%2C%22Lenguaje%20Inclusivo%22%5D%2C%22scores%22%3A%5B%22Nivel%201%3A%20Logrado%22%2C%22Nivel%202%3A%20En%20proceso%22%2C%22Nivel%203%3A%20No%20logrado%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%222%2C5%22%2C%22text%22%3A%22El%20alumnado%20se%20expresa%20con%20fluidez%2C%20claridad%20y%20utiliza%20un%20vocabulario%20t%E9cnico%20adecuado.%22%7D%2C%7B%22weight%22%3A%221%2C25%22%2C%22text%22%3A%22La%20explicaci%F3n%20es%20clara%20pero%20depende%20en%20exceso%20de%20la%20lectura%20del%20dossier.%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22Se%20limita%20a%20leer%20el%20texto%20o%20la%20comunicaci%F3n%20es%20confusa.%22%7D%5D%2C%5B%7B%22weight%22%3A%222%2C5%22%2C%22text%22%3A%22Demuestra%20una%20comprensi%F3n%20profunda%20de%20los%20conceptos%20financieros%20explicados%20en%20el%20v%EDdeo.%22%7D%2C%7B%22weight%22%3A%221%2C25%22%2C%22text%22%3A%22Muestra%20comprensi%F3n%20de%20los%20conceptos%20b%E1sicos%20pero%20con%20algunas%20imprecisiones.%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22No%20demuestra%20entender%20el%20funcionamiento%20del%20mercado%20o%20los%20productos.%22%7D%5D%2C%5B%7B%22weight%22%3A%222%2C5%22%2C%22text%22%3A%22El%20v%EDdeo%20est%E1%20bien%20estructurado%20y%20el%20audio%20es%20n%EDtido%20en%20toda%20la%20presentaci%F3n.%22%7D%2C%7B%22weight%22%3A%221%2C25%22%2C%22text%22%3A%22El%20v%EDdeo%20es%20correcto%20pero%20falla%20en%20alg%FAn%20aspecto%20t%E9cnico%20%28audio%20o%20imagen%29.%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22Calidad%20t%E9cnica%20deficiente%20que%20dificulta%20la%20comprensi%F3n%20del%20mensaje.%22%7D%5D%2C%5B%7B%22weight%22%3A%222%2C5%22%2C%22text%22%3A%22Utiliza%20lenguaje%20inclusivo%20y%20no%20sexista%20durante%20toda%20la%20intervenci%F3n%20oral.%22%7D%2C%7B%22weight%22%3A%221%2C25%22%2C%22text%22%3A%22Utiliza%20lenguaje%20inclusivo%20de%20forma%20intermitente%20durante%20el%20v%EDdeo.%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22No%20utiliza%20lenguaje%20inclusivo%20en%20su%20exposici%F3n%20oral.%22%7D%5D%5D%2C%22visible-info%22%3Atrue%2C%22i18n%22%3A%7B%22rubric%22%3A%22R%FAbrica%22%2C%22activity%22%3A%22Actividad%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22download%22%3A%22Descargar%22%2C%22msgDelete%22%3A%22%BFSeguro%20que%20desea%20borrar%20todos%20los%20campos%20del%20formulario%3F%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%7D%7D</div><ul class="exe-rubrics-strings"><li class="rubric">Rúbrica</li><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="download">Descargar</li><li class="msgDelete">¿Seguro que desea borrar todos los campos del formulario?</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li></ul></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data"></span><span class="exe-rubrics-text-after-data"></span></div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -619,8 +901,8 @@
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-1774786878316-21dk2ordi</odePageId>
-  <odeParentPageId>1ad9ba6f-5493-4e29-9b52-b5060ac02236</odeParentPageId>
+  <odePageId>page-mnwy0myh-kmtiskc9n</odePageId>
+  <odeParentPageId>page-mnwy0mya-l90ixpvuj</odeParentPageId>
   <pageName>Créditos y descarga</pageName>
   <odeNavStructureOrder>6</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -628,10 +910,34 @@
       <key>titlePage</key>
       <value>Créditos y descarga</value>
     </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-1774786878316-21dk2ordi</odePageId>
+      <odePageId>page-mnwy0myh-kmtiskc9n</odePageId>
       <odeBlockId>block-1774786886474-3t6kd67c2</odeBlockId>
       <blockName>Descargar el archivo fuente</blockName>
       <iconName></iconName>
@@ -660,7 +966,7 @@
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-1774786878316-21dk2ordi</odePageId>
+          <odePageId>page-mnwy0myh-kmtiskc9n</odePageId>
           <odeBlockId>block-1774786886474-3t6kd67c2</odeBlockId>
           <odeIdeviceId>idevice-1774786886473-6bauugcuw</odeIdeviceId>
           <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
@@ -689,6 +995,18 @@
           <jsonProperties></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
